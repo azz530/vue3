@@ -1,11 +1,11 @@
 <template>
-  <div class="page">首页</div>
+  <div class="page"></div>
 </template>
 
 <script setup lang='ts'>
 </script>
 <style lang='scss' scoped>
 .page {
-  background-color: red;
+  height: 100%;
 }
 </style>
